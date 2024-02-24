@@ -10,6 +10,8 @@ This repository does not give access to the full software. It is meant as backup
 
 ## Main features
 
+![](demos/demo.gif)
+
 - Resources & tasks creation / removal
 - Resources & tasks dynamic editing
 - GANTT diagram generation & update
